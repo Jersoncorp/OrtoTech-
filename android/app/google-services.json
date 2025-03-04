@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "164631254389",
+    "project_id": "ortotech-e2a25",
+    "storage_bucket": "ortotech-e2a25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164631254389:android:76779b0b927d38c6f16f3c",
+        "android_client_info": {
+          "package_name": "com.example.ortotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164631254389-ihl1ph4drq1guj04es5a9jabl07t7fcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FgSRZeIUD-JdExOY-EHOr9orFlgETFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164631254389-ihl1ph4drq1guj04es5a9jabl07t7fcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164631254389-v012m7gca2ga3ntobbd73pu7r1u0u7pf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ortotech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
